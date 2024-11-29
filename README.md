@@ -1,6 +1,6 @@
 # Elevare
 
-In today’s fast-paced digital environment, managing overflowing email inboxes is both time-consuming and overwhelming. Our project provides a web-based solution that leverages large language models to streamline email management by summarizing messages and auto-generating responses with minimal input. Users can integrate their own custom knowledge, enabling the system to produce personalized, context-aware replies that match specific industry needs or communication styles. The platform supports bidirectional language translation, making it accessible for global communication, and includes detailed analytics to track email patterns, response times, and overall efficiency. By categorizing emails and automating replies based on predefined criteria, the system helps users save time, stay organized, and reduce the risk of missing critical messages.
+This project aims to create an efficient, AI-powered platform that simplifies email management through automated summarization, custom knowledge integration, and personalised response generation. By minimising manual efforts in reading and responding to emails, this platform will enhance productivity, particularly for professionals overwhelmed by high email volumes.
 
 
 
@@ -8,10 +8,12 @@ In today’s fast-paced digital environment, managing overflowing email inboxes 
 ## Overview : 
 Most inboxes contain hundreds of emails that overwhelm the users; hence, managing them might be difficult. Sifting through some emails looking for an important information, writing reply comments and responding time and again to frequently asked questions can consume a lot of time and wastes much time. This delays the way other messages are being handled or some may get missed out leading to low productivity.
 
-
-
 ### Demo Video : 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RdNlkK7dfYU/0.jpg)](https://www.youtube.com/watch?v=RdNlkK7dfYU)
 
+### System Arcitecture : 
+![image](https://github.com/user-attachments/assets/ef4ac9d3-a2f8-4840-af9e-0ac0e7e70f34)
+![image](https://github.com/user-attachments/assets/c00b1008-e4de-4d6a-b521-7a7206f59638)
 
 
 ## Getting Started
