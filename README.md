@@ -1,6 +1,18 @@
-# NextApp
+# Elevare
 
-NextApp is a Next.js-based application designed to streamline and enhance your workflow by integrating a range of tools and services, including Prisma, Google authentication, MongoDB, and an LLM (Large Language Model) for advanced processing.
+In today’s fast-paced digital environment, managing overflowing email inboxes is both time-consuming and overwhelming. Our project provides a web-based solution that leverages large language models to streamline email management by summarizing messages and auto-generating responses with minimal input. Users can integrate their own custom knowledge, enabling the system to produce personalized, context-aware replies that match specific industry needs or communication styles. The platform supports bidirectional language translation, making it accessible for global communication, and includes detailed analytics to track email patterns, response times, and overall efficiency. By categorizing emails and automating replies based on predefined criteria, the system helps users save time, stay organized, and reduce the risk of missing critical messages.
+
+
+
+
+## Overview : 
+Most inboxes contain hundreds of emails that overwhelm the users; hence, managing them might be difficult. Sifting through some emails looking for an important information, writing reply comments and responding time and again to frequently asked questions can consume a lot of time and wastes much time. This delays the way other messages are being handled or some may get missed out leading to low productivity.
+
+
+
+### Demo Video : 
+
+
 
 ## Getting Started
 
