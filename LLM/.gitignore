@@ -1,0 +1,5 @@
+.env
+logs/vector_db.log
+*.log
+/__pycache__
+*.pyc
